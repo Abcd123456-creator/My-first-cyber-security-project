@@ -207,3 +207,16 @@ An advanced, enterprise-grade password scanner built in Python. This tool moves 
 - **Python 3** (Core Language)
 - `urllib.request` (For live threat data fetching)
 - `re` (For cryptographic text pattern matching)
+# 🛡️ My First Cyber Security Toolbox
+
+Welcome to my personal cyber security playground! This repository contains Python tools I built from scratch to understand local application and network security.
+
+## 🔑 Tool 1: Password Security Guard (`security_guard.py`)
+This tool evaluates password strength based on real-world security rules.
+* **Features:** Checks length, numbers, capital letters, and symbols.
+* **How to run:** `python security_guard.py`
+
+## 🚀 Tool 2: Network Port Scanner (`port_scanner.py`)
+A network security utility that scans hosts to check if common communication doors are left exposed.
+* **Features:** Tests crucial ports like HTTP (80) and HTTPS (443) on safe test domains.
+* **How to run:** `python port_scanner.py`
